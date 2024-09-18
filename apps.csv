@@ -18,6 +18,8 @@ tools,zathura-pdf-mupdf,PDF Viewer
 tools,yay,AUR package installer
 tools,fuse2,Filesystem export utility
 tools,efibootmgr,EFI boot manager
+tools,gnome-keychain,GNOME keychain manager
+tools,seahorse,GNOME keychain GUI
 tmux,tmux,Terminal multiplexer
 tmux,tmuxp,Configure tmux session + windows + panes via config files
 notifier,dunst,Notification system
@@ -51,6 +53,7 @@ sound,alsa-firmware,Firmware for ALSA
 sound,pipewire,Pipewire
 sound,pipewire-alsa,Pipewire ALSA extension
 sound,pipewire-audio,Pipewire audio extension
+sound,pipewire-pulse,Pipewire PulseAudio extension
 sound,wireplumber,Wireplumber
 music,spotify,Spotify
 pw,1password,1Password password manager
