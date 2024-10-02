@@ -66,3 +66,5 @@ game,path-of-building-community-git,Path of Building
 video,nvidia,NVIDIA drivers
 video,xf86-video-vesa,NVIDIA drivers
 cpp,clang,Clang
+mail,protonmail-bridge,Proton Mail bridge for Thunderbird
+mail,thunderbird, Thunderbird client

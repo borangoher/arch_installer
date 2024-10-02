@@ -32,6 +32,7 @@ apps=("essential" "Essentials" on
       "game" "Gaming" on
       "video" "video drivers and utils" on
       "cpp" "Cpp tooling" on
+      "mail" "Mail tools" on
       "js" "JavaScript tooling" on)
 
 dialog --checklist \
